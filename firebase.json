@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"therapy-me","appId":"1:84104081964:android:9d22771a7a41004b441789","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"therapy-me","configurations":{"android":"1:84104081964:android:9d22771a7a41004b441789","ios":"1:84104081964:ios:9040d73a2671d625441789"}}}}}}

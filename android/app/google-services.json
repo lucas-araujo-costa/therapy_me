@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84104081964",
+    "project_id": "therapy-me",
+    "storage_bucket": "therapy-me.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84104081964:android:9d22771a7a41004b441789",
+        "android_client_info": {
+          "package_name": "com.example.therapy_me"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-OodigmoFVJ2rcXGX8wQYSgHSyLjQUWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
